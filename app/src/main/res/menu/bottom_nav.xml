@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_home_item"
+        android:icon="@mipmap/home_icon"
+        android:title="@string/home" />
+    <item
+        android:id="@+id/menu_booking_item"
+        android:icon="@mipmap/booking_icon"
+        android:title="@string/bookings" />
+    <item
+        android:id="@+id/menu_help_item"
+        android:icon="@mipmap/help_icon"
+        android:title="@string/help" />
+    <item
+        android:id="@+id/menu_profile_item"
+        android:icon="@mipmap/profile_icon"
+        android:title="@string/account" />
+</menu>
